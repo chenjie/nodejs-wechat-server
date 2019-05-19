@@ -1,1 +1,1 @@
-# node-wechat-server
+# nodejs-wechat-server
